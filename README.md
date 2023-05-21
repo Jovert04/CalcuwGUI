@@ -1,1 +1,1 @@
-# CalcuwGUI
+# Simple Python Calculator with GUI
